@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+
+- Use Conventional Commits format for commit messages
+- Write commit messages in English
